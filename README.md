@@ -4,6 +4,7 @@ govalidator
 [![Build Status](https://travis-ci.org/asaskevich/govalidator.svg?branch=master)](https://travis-ci.org/asaskevich/govalidator)
 [![Coverage](https://codecov.io/gh/asaskevich/govalidator/branch/master/graph/badge.svg)](https://codecov.io/gh/asaskevich/govalidator) [![Go Report Card](https://goreportcard.com/badge/github.com/asaskevich/govalidator)](https://goreportcard.com/report/github.com/asaskevich/govalidator) [![GoSearch](http://go-search.org/badge?id=github.com%2Fasaskevich%2Fgovalidator)](http://go-search.org/view?id=github.com%2Fasaskevich%2Fgovalidator) [![Backers on Open Collective](https://opencollective.com/govalidator/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/govalidator/sponsors/badge.svg)](#sponsors) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fasaskevich%2Fgovalidator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fasaskevich%2Fgovalidator?ref=badge_shield)
 
+
 A package of validators and sanitizers for strings, structs and collections. Based on [validator.js](https://github.com/chriso/validator.js).
 
 #### Installation
